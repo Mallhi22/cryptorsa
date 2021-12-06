@@ -1,0 +1,2 @@
+String pbKeyForEncrypt = '';
+String priKeyForDecrypt = '';
